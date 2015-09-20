@@ -142,12 +142,12 @@
 
 						echo $message["maybe"];
 
-				} else if ($tires == "yes" && $mommy == "yes" && $groceries == "yes" && $whisky == "yes" && $girlfriend == "yes" && $city == "yes"){
+				} 	else if ($tires == "yes" && $mommy == "yes" && $groceries == "yes" && $whisky == "yes" && $girlfriend == "yes" && $city == "yes"){
 
 						//call the function foo
 						echo foo();
 
-				} else {
+				} 	else {
 
 						echo $message["no"];
 
