@@ -18,7 +18,7 @@
 
 				<fieldset>
 
-					<legend>test your new tires in the forest</legend>
+					<legend>test your new tires in the Forest</legend>
 
 					<label for="yes">Yes</label>
 					<input type="radio" id="yes" name="tires" value="yes" required <?php if($GET['tires'] == "yes") { echo 'checked="checked"'; } ?> />
@@ -42,7 +42,7 @@
 
 				<fieldset>
 
-					<legend>buy some groceries for the family</legend>
+					<legend>buy some groceries for the Family</legend>
 
 					<label for="yes">Yes</label>
 					<input type="radio" id="yes" name="groceries" value="yes" required <?php if($GET['groceries'] == "yes") { echo 'checked="checked"'; } ?> />
@@ -58,7 +58,7 @@
 
 				<fieldset>
 
-					<legend>buy a bottle of Whisky for you</legend>
+					<legend>buy a Bottle of Whisky for you</legend>
 
 					<label for="yes">Yes</label>
 					<input type="radio" id="yes" name="whisky" value="yes" required <?php if($GET['whisky'] == "yes") { echo 'checked="checked"'; } ?> />
@@ -70,7 +70,7 @@
 
 				<fieldset>
 
-					<legend>visit my new girlfriend</legend>
+					<legend>visit my new Girlfriend</legend>
 
 					<label for="yes">Yes</label>
 					<input type="radio" id="yes" name="girlfriend" value="yes" required <?php if($GET['girlfriend'] == "yes") { echo 'checked="checked"'; } ?> />
@@ -82,7 +82,7 @@
 
 				<fieldset>
 
-					<legend>cruise through the city</legend>
+					<legend>cruise through the City</legend>
 
 					<label for="yes">Yes</label>
 					<input type="radio" id="yes" name="city" value="yes" required <?php if($GET['city'] == "yes") { echo 'checked="checked"'; } ?> />
