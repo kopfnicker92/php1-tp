@@ -128,8 +128,7 @@
 					$city = $_GET["city"];
 
 					//if condition
-					if ($tires == "no" && $mommy == "yes" && $groceries == "yes"
-					&& $whisky == "yes" && $girlfriend == "no" && $city == "no") {
+					if ($tires == "no" && $mommy == "yes" && $groceries == "yes" && $whisky == "yes" && $girlfriend == "no" && $city == "no") {
 
 						//displaying the message
 						echo $message["yes"];
