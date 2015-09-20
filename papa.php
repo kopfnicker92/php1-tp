@@ -101,10 +101,7 @@
 
 		</form> 
 
-	</div>
-
-
-	<?php
+		<?php
 
 		//stocking the possible anwers in $message[".."]
 		$message["yes"] = '<div class="answer">OK, here are the keys my lovely son!<img src ="img/bmw.png" alt="bmw of dad" width="400px" /></div>';
@@ -161,6 +158,11 @@
     	}
 			
 	?>
+
+		<div class="viewsrc">
+			<a href="https://github.com/kopfnicker92/php1-tp">Take a look at my code</a>
+		</div>
+	</div>
 
 </body>	
 </html>
