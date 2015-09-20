@@ -2,11 +2,9 @@
 <html lang="en">
 
 <head>
-
 	<title>DWM PHP-TP</title>
 	<meta charset="UTF-8" />
 	<link rel="stylesheet" href="css/stylepapa.css">
-
 </head> 
 <body>
 
